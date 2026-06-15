@@ -54,6 +54,8 @@ Varsity Volleyball
  Projects:
  [Inventory System](https://github.com/BraydonFeldman/Inventory-System/tree/main) This is an basic inventory system using google scripts and google sheets.
 
+ [Rummikub](https://github.com/BraydonFeldman/rummikub-game) This is a version of the game rummikub
+
 References 
 
 Available upon request. 
