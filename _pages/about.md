@@ -52,9 +52,14 @@ Sports:
 Varsity Volleyball 
 
  Projects:
+ 
  [Inventory System](https://github.com/BraydonFeldman/Inventory-System/tree/main) This is an basic inventory system using google scripts and google sheets.
 
  [Rummikub](https://github.com/BraydonFeldman/rummikub-game) This is a version of the game rummikub
+
+ [APG Website](https://github.com/BraydonFeldman/Clinical-Internship-Q3) This is my Q3 website that I and a group made for APG
+
+ [Rubik's solver](https://mindcuber.com/mindcub3r/MindCub3r-v1p0.pdf) I made a Rubik's cube solver out of legos
 
 References 
 
